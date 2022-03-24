@@ -22,3 +22,12 @@ After experimenting with Various combinations of Neural networks,-with and witho
 
 ## Prediction
 ANN_prediction and LR_prediction are the two results saved below as the results of the binary classification assessment.
+
+## Libraries used
+In this project the libraries used are
+    -Pandas for data interaction and data preprocessing
+    -Numpy for data interaction and data preprocessing
+    -Matplotlib for EDA
+    -Seaborn for EDA
+    -ScikitLearn for Machine Learing and Data preprocessing
+    -Tensorflow for Deep Learning
